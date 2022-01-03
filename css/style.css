@@ -1,3 +1,11 @@
+.comingsoon {
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
 body {
   background-color: black;
   
@@ -9,12 +17,4 @@ h1 {
 }
 p {
     color: red;
-}
-.comingsoon {
-  
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
 }
