@@ -1,9 +1,11 @@
 body {
-    background-color: black;
+  background-color: black;
 }
 h1 {
-    margin: 100px;
-    color: red;
-    
-   
+  color: green;
+  margin: 160px;
+ 
+}
+p {
+    color: green;
 }
