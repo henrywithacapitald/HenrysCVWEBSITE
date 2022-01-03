@@ -1,11 +1,20 @@
 body {
   background-color: black;
+  
 }
 h1 {
   color: green;
-  margin: 160px;
+  ;
  
 }
 p {
     color: red;
+}
+.comingsoon {
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
 }
